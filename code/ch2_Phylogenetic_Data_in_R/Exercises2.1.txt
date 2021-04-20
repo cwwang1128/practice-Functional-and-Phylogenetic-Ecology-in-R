@@ -1,0 +1,1 @@
+((spC,(spA,spE)),(spD,spB));
